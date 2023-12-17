@@ -1,0 +1,11 @@
+{ "Name":"bmw 2002", "brand":"bmw","Horsepower":113, "Miles_per_Gallon":26, "Weight_in_lbs":2234, "Acceleration":12.5, "Origin":"Europe", "Year":"1970-01-01" }
+{ "Name":"bmw 320i", "brand":"bmw","Horsepower":110, "Miles_per_Gallon":21.5, "Weight_in_lbs":2600, "Acceleration":12.8, "Origin":"Europe", "Year":"1977-01-01" }
+{ "Name":"bmw 2002", "brand":"bmw","Horsepower":113, "Miles_per_Gallon":26, "Weight_in_lbs":2234, "Acceleration":12.5, "Origin":"Europe", "Year":"1970-01-01" }
+{ "Name":"audi 100ls", "brand":"audi","Horsepower":91, "Miles_per_Gallon":20, "Weight_in_lbs":2582, "Acceleration":14, "Origin":"Europe", "Year":"1973-01-01" }
+{ "Name":"audi fox", "brand":"audi","Horsepower":83, "Miles_per_Gallon":29, "Weight_in_lbs":2219, "Acceleration":16.5, "Origin":"Europe", "Year":"1974-01-01" }
+{ "Name":"volkswagen jetta", "brand":"volkswagen","Horsepower":74, "Miles_per_Gallon":33, "Weight_in_lbs":2190, "Acceleration":14.2, "Origin":"Europe", "Year":"1982-01-01" }
+{ "Name":"peugeot 504", "brand":"peugeot","Horsepower":87, "Miles_per_Gallon":25, "Weight_in_lbs":2672, "Acceleration":17.5, "Origin":"Europe", "Year":"1970-01-01" }
+{ "Name":"audi 100 ls", "brand":"audi","Horsepower":90, "Miles_per_Gallon":24, "Weight_in_lbs":2430, "Acceleration":14.5, "Origin":"Europe", "Year":"1970-01-01" }
+{ "Name":"ford torino 500", "brand":"ford","Horsepower":88, "Miles_per_Gallon":19, "Weight_in_lbs":3302, "Acceleration":15.5, "Origin":"USA", "Year":"1971-01-01" }
+{ "Name":"chevrolet impala", "brand":"chevrolet","Horsepower":165, "Miles_per_Gallon":14, "Weight_in_lbs":4209, "Acceleration":12, "Origin":"USA", "Year":"1971-01-01" }
+{ "Name":"ford mustang", "brand":"ford","Horsepower":88, "Miles_per_Gallon":18, "Weight_in_lbs":3139, "Acceleration":14.5, "Origin":"USA", "Year":"1971-01-01" }
